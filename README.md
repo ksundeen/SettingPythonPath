@@ -1,0 +1,2 @@
+# SettingPythonPath
+This script does a simple check of your current python development environment to check where your python path is located. This script is written for those who don't have the write permissions to their C Drive or need to temporarily add your python file directory to the python path. I found this useful when working in a 32-bit environment and needed to change to working in a 64-bit environment for accessing various python modules in QGIS, ArcMap, and PythonWin.exe.
